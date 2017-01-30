@@ -12,10 +12,10 @@ The app is a simple classified ad posting board.
 
 You are responsible for:
 
-- [ ] Forking and cloning this GitHub Repo.
-- [ ] Creating the test and development databases locally.
-- [ ] Creating the database migration.
-- [ ] Creating the database seed data.
+- [x] Forking and cloning this GitHub Repo.
+- [x] Creating the test and development databases locally.
+- [x] Creating the database migration.
+- [x] Creating the database seed data.
 - [ ] Creating the RESTful API to handle classified resource.
 - [ ] Deployment of the API on Heroku.
 
